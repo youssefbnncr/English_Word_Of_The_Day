@@ -1,0 +1,28 @@
+name: Daily English Word Post
+
+on:
+  schedule:
+    # Runs every day at 18:00 UTC (6 PM UTC)
+    - cron: '0 18 * * *' 
+  workflow_dispatch:
+
+jobs:
+  post-english-word:
+    runs-on: ubuntu-latest
+    # **IMPORTANT:** Use the same environment name you set up for the Spanish bot.
+    environment: **[Your Environment Name]** steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Install dependencies
+        # This assumes your dependencies (like node-fetch) are in your package.json
+        run: npm install node-fetch
+
+      - name: Run English script and post to Discord
+        # Calls the new English script
+        run: node english_bot.js
+        env:
+          # Uses the same shared secret for the Webhook URL
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
