@@ -1,302 +1,422 @@
 [
   {
-    "word": "Ephemeral",
-    "definition": "Lasting for a very short time.",
-    "example": "The beauty of the sunset was an ephemeral moment.",
-    "synonym": "Transient"
+    "word": "Aberration",
+    "definition": "A departure from what is normal, usual, or expected, typically one that is unwelcome.",
+    "example": "The sudden drop in temperature was an aberration for this time of year.",
+    "synonym": "Anomaly",
+    "link": "https://www.thefreedictionary.com/aberration"
   },
   {
-    "word": "Ubiquitous",
-    "definition": "Present, appearing, or found everywhere.",
-    "example": "In the modern age, smartphones have become ubiquitous.",
-    "synonym": "Pervasive"
+    "word": "Acrimonious",
+    "definition": "Angry and bitter in feeling, language, or tone.",
+    "example": "The divorce proceedings were acrimonious, with both parties refusing to speak to each other.",
+    "synonym": "Caustic",
+    "link": "https://www.thefreedictionary.com/acrimonious"
   },
   {
-    "word": "Mellifluous",
-    "definition": "Sweet or musical; pleasant to hear.",
-    "example": "The singer's mellifluous voice captivated the audience.",
-    "synonym": "Harmonious"
+    "word": "Alacrity",
+    "definition": "Liveliness and eagerness; cheerful readiness.",
+    "example": "She accepted the task with great alacrity, eager to prove herself.",
+    "synonym": "Avidity",
+    "link": "https://www.thefreedictionary.com/alacrity"
   },
   {
-    "word": "Surreptitious",
-    "definition": "Kept secret, especially because it would not be approved of.",
-    "example": "He cast a surreptitious glance at his watch during the meeting.",
-    "synonym": "Clandestine"
+    "word": "Ameliorate",
+    "definition": "To make (something bad or unsatisfactory) better or more tolerable.",
+    "example": "Efforts were made to ameliorate the living conditions in the slums.",
+    "synonym": "Improve",
+    "link": "https://www.thefreedictionary.com/ameliorate"
   },
   {
-    "word": "Inscrutable",
-    "definition": "Impossible to understand or interpret.",
-    "example": "The detective stared at the suspect's inscrutable face.",
-    "synonym": "Enigmatic"
+    "word": "Anachronism",
+    "definition": "Something belonging to a time other than that in which it exists; an error in chronological order.",
+    "example": "The sword in the movie, set in the future, was a strange anachronism.",
+    "synonym": "Misplacement",
+    "link": "https://www.thefreedictionary.com/anachronism"
   },
   {
-    "word": "Lugubrious",
-    "definition": "Looking or sounding sad and dismal.",
-    "example": "A lugubrious sigh escaped his lips when he heard the bad news.",
-    "synonym": "Mournful"
+    "word": "Assiduous",
+    "definition": "Showing great care and perseverance; hardworking.",
+    "example": "The research team was assiduous in collecting every piece of data.",
+    "synonym": "Diligent",
+    "link": "https://www.thefreedictionary.com/assiduous"
   },
   {
-    "word": "Ebullient",
-    "definition": "Cheerful and full of energy.",
-    "example": "Her ebullient personality makes her a great motivational speaker.",
-    "synonym": "Exuberant"
+    "word": "Austere",
+    "definition": "Severe or strict in manner, attitude, or appearance; simple and unadorned.",
+    "example": "The headmaster maintained an austere and formal demeanor.",
+    "synonym": "Stern",
+    "link": "https://www.thefreedictionary.com/austere"
   },
   {
-    "word": "Misanthrope",
-    "definition": "A person who dislikes humankind and avoids human society.",
-    "example": "The old recluse was known as a confirmed misanthrope.",
-    "synonym": "Cynic"
+    "word": "Benevolent",
+    "definition": "Well meaning and kindly; serving a charitable purpose.",
+    "example": "The benevolent organization donated books to the local school.",
+    "synonym": "Charitable",
+    "link": "https://www.thefreedictionary.com/benevolent"
   },
   {
-    "word": "Pensive",
-    "definition": "Engaged in, reflecting deep or serious thought.",
-    "example": "The young writer looked pensive, staring out the window.",
-    "synonym": "Thoughtful"
+    "word": "Burgeon",
+    "definition": "To begin to grow or increase rapidly; flourish.",
+    "example": "The small company quickly burgeoned into a massive enterprise.",
+    "synonym": "Expand",
+    "link": "https://www.thefreedictionary.com/burgeon"
   },
   {
-    "word": "Vexation",
-    "definition": "The state of being annoyed, frustrated, or worried.",
-    "example": "The constant delays caused great vexation to the travelers.",
-    "synonym": "Annoyance"
-  },
-  {
-    "word": "Languid",
-    "definition": "Displaying or having a disinclination for physical exertion or effort.",
-    "example": "They spent a languid afternoon by the side of the pool.",
-    "synonym": "Relaxed"
+    "word": "Cacophony",
+    "definition": "A harsh, jarring mixture of sounds.",
+    "example": "A cacophony of car horns and sirens filled the busy street.",
+    "synonym": "Dissonance",
+    "link": "https://www.thefreedictionary.com/cacophony"
   },
   {
     "word": "Capricious",
     "definition": "Given to sudden and unaccountable changes of mood or behavior.",
-    "example": "The weather in the mountains is capricious and hard to predict.",
-    "synonym": "Fickle"
+    "example": "Her capricious nature made her a difficult boss to work for.",
+    "synonym": "Fickle",
+    "link": "https://www.thefreedictionary.com/capricious"
   },
   {
-    "word": "Prevaricate",
-    "definition": "Speak or act in an evasive way.",
-    "example": "When questioned, the politician began to prevaricate about his involvement.",
-    "synonym": "Evasive"
+    "word": "Circumspect",
+    "definition": "Wary and unwilling to take risks.",
+    "example": "In a new environment, one must be very circumspect about whom they trust.",
+    "synonym": "Cautious",
+    "link": "https://www.thefreedictionary.com/circumspect"
   },
   {
-    "word": "Alacrity",
-    "definition": "Brisk and cheerful readiness.",
-    "example": "She accepted the new challenge with alacrity.",
-    "synonym": "Eagerness"
+    "word": "Cogent",
+    "definition": "Clear, logical, and convincing.",
+    "example": "The student presented a cogent argument that swayed the entire class.",
+    "synonym": "Compelling",
+    "link": "https://www.thefreedictionary.com/cogent"
+  },
+  {
+    "word": "Conflagration",
+    "definition": "An extensive fire that destroys a great deal of land or property.",
+    "example": "The city’s greatest tragedy was the historic conflagration of 1871.",
+    "synonym": "Inferno",
+    "link": "https://www.thefreedictionary.com/conflagration"
+  },
+  {
+    "word": "Deleterious",
+    "definition": "Causing harm or damage.",
+    "example": "The drought had a deleterious effect on the entire agricultural sector.",
+    "synonym": "Harmful",
+    "link": "https://www.thefreedictionary.com/deleterious"
+  },
+  {
+    "word": "Deride",
+    "definition": "To express contempt for; ridicule.",
+    "example": "The critics derided the play as poorly written and poorly acted.",
+    "synonym": "Mock",
+    "link": "https://www.thefreedictionary.com/deride"
+  },
+  {
+    "word": "Disparate",
+    "definition": "Fundamentally different or distinct in kind; entirely unalike.",
+    "example": "The team was composed of individuals with widely disparate skill sets.",
+    "synonym": "Contrasting",
+    "link": "https://www.thefreedictionary.com/disparate"
+  },
+  {
+    "word": "Ebullient",
+    "definition": "Cheerful and full of energy.",
+    "example": "The winner gave an ebullient speech, thanking all of his supporters.",
+    "synonym": "Exuberant",
+    "link": "https://www.thefreedictionary.com/ebullient"
+  },
+  {
+    "word": "Egregious",
+    "definition": "Outstandingly bad; shocking.",
+    "example": "It was an egregious error that cost the company millions in fines.",
+    "synonym": "Flagrant",
+    "link": "https://www.thefreedictionary.com/egregious"
+  },
+  {
+    "word": "Enervate",
+    "definition": "To cause (someone) to feel drained of energy or vitality; weaken.",
+    "example": "The humid weather tends to enervate even the most energetic runners.",
+    "synonym": "Exhaust",
+    "link": "https://www.thefreedictionary.com/enervate"
+  },
+  {
+    "word": "Equanimity",
+    "definition": "Mental calmness, composure, and evenness of temper, especially in a difficult situation.",
+    "example": "He faced the crisis with impressive equanimity, never losing his cool.",
+    "synonym": "Composure",
+    "link": "https://www.thefreedictionary.com/equanimity"
+  },
+  {
+    "word": "Exigent",
+    "definition": "Demanding immediate attention; requiring much effort or attention.",
+    "example": "The patient's condition was exigent, requiring an emergency operation.",
+    "synonym": "Urgent",
+    "link": "https://www.thefreedictionary.com"
+  },
+  {
+    "word": "Fastidious",
+    "definition": "Very attentive to and concerned about accuracy and detail; hard to please.",
+    "example": "The chef was fastidious about the presentation of every dish.",
+    "synonym": "Meticulous",
+    "link": "https://www.thefreedictionary.com/fastidious"
+  },
+  {
+    "word": "Fatuous",
+    "definition": "Silly and pointless; vacuously or complacently foolish.",
+    "example": "He made a fatuous comment that showed he hadn't been listening.",
+    "synonym": "Inane",
+    "link": "https://www.thefreedictionary.com/fatuous"
+  },
+  {
+    "word": "Fecund",
+    "definition": "Producing or capable of producing an abundance of offspring or new growth; fertile.",
+    "example": "The author’s fecund imagination produced three novels in a single year.",
+    "synonym": "Prolific",
+    "link": "https://www.thefreedictionary.com/fecund"
+  },
+  {
+    "word": "Garrulous",
+    "definition": "Excessively talkative, especially on trivial matters.",
+    "example": "The garrulous travel guide never stopped speaking during the entire bus tour.",
+    "synonym": "Loquacious",
+    "link": "https://www.thefreedictionary.com/garrulous"
+  },
+  {
+    "word": "Hegemony",
+    "definition": "Leadership or dominance, especially by one country or social group over others.",
+    "example": "The small island nation resisted the cultural hegemony of the neighboring superpower.",
+    "synonym": "Dominance",
+    "link": "https://www.thefreedictionary.com/hegemony"
+  },
+  {
+    "word": "Impetuous",
+    "definition": "Acting or done quickly and without thought or care; impulsive.",
+    "example": "It was an impetuous decision to quit his job without a backup plan.",
+    "synonym": "Rash",
+    "link": "https://www.thefreedictionary.com/impetuous"
+  },
+  {
+    "word": "Inchoate",
+    "definition": "Just begun and so not fully formed or developed; rudimentary.",
+    "example": "The project is still in an inchoate stage, lacking a clear strategy.",
+    "synonym": "Nascent",
+    "link": "https://www.thefreedictionary.com/inchoate"
+  },
+  {
+    "word": "Inculcate",
+    "definition": "To instill (an attitude, idea, or habit) by persistent instruction.",
+    "example": "The parents tried to inculcate a love of reading in their children.",
+    "synonym": "Instill",
+    "link": "https://www.thefreedictionary.com/inculcate"
+  },
+  {
+    "word": "Indefatigable",
+    "definition": "Persisting tirelessly; incapable of being fatigued.",
+    "example": "She was an indefatigable volunteer, working from dawn till dusk.",
+    "synonym": "Untiring",
+    "link": "https://www.thefreedictionary.com/indefatigable"
+  },
+  {
+    "word": "Inert",
+    "definition": "Lacking the ability or strength to move; chemically inactive.",
+    "example": "He lay inert on the couch, exhausted after the long run.",
+    "synonym": "Motionless",
+    "link": "https://www.thefreedictionary.com/inert"
+  },
+  {
+    "word": "Inscrutable",
+    "definition": "Impossible to understand or interpret.",
+    "example": "His expression remained inscrutable throughout the questioning.",
+    "synonym": "Mysterious",
+    "link": "https://www.thefreedictionary.com/inscrutable"
+  },
+  {
+    "word": "Insipid",
+    "definition": "Lacking vigor or interest; dull.",
+    "example": "The insipid plot of the movie failed to hold the audience's attention.",
+    "synonym": "Banal",
+    "link": "https://www.thefreedictionary.com/insipid"
+  },
+  {
+    "word": "Intrepid",
+    "definition": "Fearless; adventurous (often used for rhetorical or humorous effect).",
+    "example": "The intrepid explorer ventured deep into the uncharted jungle.",
+    "synonym": "Valiant",
+    "link": "https://www.thefreedictionary.com/intrepid"
+  },
+  {
+    "word": "Languid",
+    "definition": "Displaying or having a disinclination for physical exertion or effort; slow and relaxed.",
+    "example": "A languid afternoon spent relaxing in a hammock.",
+    "synonym": "Lethargic",
+    "link": "https://www.thefreedictionary.com/languid"
+  },
+  {
+    "word": "Malign",
+    "definition": "Evil in nature or effect; malevolent. (Also a verb: to speak about someone in a spitefully critical manner.)",
+    "example": "He was accused of trying to malign his former business partner.",
+    "synonym": "Slander",
+    "link": "https://www.thefreedictionary.com/malign"
+  },
+  {
+    "word": "Mellifluous",
+    "definition": "Sweet or musical; pleasant to hear.",
+    "example": "The singer had a smooth, mellifluous voice that captivated the crowd.",
+    "synonym": "Euphonious",
+    "link": "https://www.thefreedictionary.com/mellifluous"
+  },
+  {
+    "word": "Mendacious",
+    "definition": "Not telling the truth; lying.",
+    "example": "The politician's mendacious statements undermined public trust.",
+    "synonym": "Deceitful",
+    "link": "https://www.thefreedictionary.com/mendacious"
+  },
+  {
+    "word": "Neophyte",
+    "definition": "A person who is new to a subject, skill, or belief; a novice.",
+    "example": "As a neophyte in coding, she spent hours watching tutorial videos.",
+    "synonym": "Beginner",
+    "link": "https://www.thefreedictionary.com/neophyte"
+  },
+  {
+    "word": "Obfuscate",
+    "definition": "To make obscure, unclear, or unintelligible.",
+    "example": "The lawyer attempted to obfuscate the facts with confusing jargon.",
+    "synonym": "Confuse",
+    "link": "https://www.thefreedictionary.com/obfuscate"
+  },
+  {
+    "word": "Onerous",
+    "definition": "Involving an amount of effort and difficulty that is oppressively burdensome.",
+    "example": "The teacher assigned the students an onerous amount of homework.",
+    "synonym": "Taxing",
+    "link": "https://www.thefreedictionary.com/onerous"
+  },
+  {
+    "word": "Paradigm",
+    "definition": "A typical example or pattern of something; a model.",
+    "example": "The invention of the internet created a new paradigm for commerce.",
+    "synonym": "Model",
+    "link": "https://www.thefreedictionary.com/paradigm"
+  },
+  {
+    "word": "Pariah",
+    "definition": "An outcast; a person who is rejected or avoided by society.",
+    "example": "After the scandal, the celebrity became a pariah in Hollywood.",
+    "synonym": "Outcast",
+    "link": "https://www.thefreedictionary.com/pariah"
+  },
+  {
+    "word": "Pellucid",
+    "definition": "Translucently clear; easily understood.",
+    "example": "The glass-bottom boat offered a view of the pellucid turquoise water.",
+    "synonym": "Luminous",
+    "link": "https://www.thefreedictionary.com/pellucid"
+  },
+  {
+    "word": "Perfidious",
+    "definition": "Deceitful and untrustworthy.",
+    "example": "The general was court-martialed for his perfidious actions.",
+    "synonym": "Treacherous",
+    "link": "https://www.thefreedictionary.com/perfidious"
+  },
+  {
+    "word": "Petulant",
+    "definition": "Childishly sulky or bad-tempered.",
+    "example": "The customer was petulant when the waiter brought the wrong order.",
+    "synonym": "Peevish",
+    "link": "https://www.thefreedictionary.com/petulant"
+  },
+  {
+    "word": "Philistine",
+    "definition": "A person who is hostile or indifferent to culture and the arts.",
+    "example": "The museum director called the city council a group of philistines for cutting the arts budget.",
+    "synonym": "Boor",
+    "link": "https://www.thefreedictionary.com/philistine"
+  },
+  {
+    "word": "Ponderous",
+    "definition": "Slow and clumsy because of great weight; dull, laborious, or excessively solemn.",
+    "example": "The speaker delivered a long and ponderous lecture on economic theory.",
+    "synonym": "Cumbersome",
+    "link": "https://www.thefreedictionary.com/ponderous"
+  },
+  {
+    "word": "Propitious",
+    "definition": "Giving or indicating a good chance of success; favorable.",
+    "example": "The timing for the launch was propitious, with good weather predicted.",
+    "synonym": "Auspicious",
+    "link": "https://www.thefreedictionary.com/propitious"
+  },
+  {
+    "word": "Pugnacious",
+    "definition": "Eager or quick to argue, quarrel, or fight.",
+    "example": "The drunk customer was in a pugnacious mood and looking for trouble.",
+    "synonym": "Belligerent",
+    "link": "https://www.thefreedictionary.com/pugnacious"
+  },
+  {
+    "word": "Pulchritude",
+    "definition": "Beauty.",
+    "example": "The actress was known for her exceptional pulchritude and charm.",
+    "synonym": "Attractiveness",
+    "link": "https://www.thefreedictionary.com/pulchritude"
   },
   {
     "word": "Quixotic",
     "definition": "Exceedingly idealistic; unrealistic and impractical.",
-    "example": "His quixotic pursuit of eternal youth was ridiculed by his peers.",
-    "synonym": "Impractical"
+    "example": "The young man's quixotic dream of saving the entire rainforest was admirable but impossible.",
+    "synonym": "Utopian",
+    "link": "https://www.thefreedictionary.com/quixotic"
   },
   {
-    "word": "Exigent",
-    "definition": "Pressing; demanding.",
-    "example": "The CEO called an exigent meeting to address the crisis.",
-    "synonym": "Urgent"
+    "word": "Rancor",
+    "definition": "Bitterness or resentfulness, especially when long-standing.",
+    "example": "The decades-long family feud was filled with deep-seated rancor.",
+    "synonym": "Animosity",
+    "link": "https://www.thefreedictionary.com/rancor"
   },
   {
-    "word": "Tacit",
-    "definition": "Understood or implied without being stated.",
-    "example": "They had a tacit agreement not to discuss politics at the dinner table.",
-    "synonym": "Implicit"
+    "word": "Recalcitrant",
+    "definition": "Having an obstinately uncooperative attitude toward authority or discipline.",
+    "example": "The recalcitrant student refused to follow the teacher's instructions.",
+    "synonym": "Defiant",
+    "link": "https://www.thefreedictionary.com/recalcitrant"
   },
   {
-    "word": "Pedantic",
-    "definition": "Excessively concerned with minor details and rules.",
-    "example": "The professor was so pedantic that he marked off points for imperfect margins.",
-    "synonym": "Fussy"
+    "word": "Restive",
+    "definition": "Unable to keep still or silent and becoming increasingly difficult to control, especially due to impatience, dissatisfaction, or boredom.",
+    "example": "The audience grew restive during the excessively long intermission.",
+    "synonym": "Jumpy",
+    "link": "https://www.thefreedictionary.com/restive"
   },
   {
-    "word": "Insipid",
-    "definition": "Lacking flavor or interest.",
-    "example": "The soup was bland and utterly insipid.",
-    "synonym": "Dull"
+    "word": "Sanctimonious",
+    "definition": "Making a show of being morally superior to other people.",
+    "example": "His sanctimonious pronouncements on charity alienated many of his colleagues.",
+    "synonym": "Hypocritical",
+    "link": "https://www.thefreedictionary.com/sanctimonious"
   },
   {
-    "word": "Paucity",
-    "definition": "The presence of something only in small or insufficient quantities or amounts.",
-    "example": "There was a paucity of evidence to support the claim.",
-    "synonym": "Scarcity"
+    "word": "Sycophant",
+    "definition": "A servile flatterer; a person who acts obsequiously to gain advantage.",
+    "example": "The manager ignored the sycophant's excessive compliments.",
+    "synonym": "Toady",
+    "link": "https://www.thefreedictionary.com/sycophant"
   },
   {
-    "word": "Celerity",
-    "definition": "Swiftness of movement.",
-    "example": "The package was delivered with astonishing celerity.",
-    "synonym": "Speed"
+    "word": "Tendentious",
+    "definition": "Expressing or favoring a particular cause or view; biased.",
+    "example": "The newspaper was criticized for its tendentious coverage of the election.",
+    "synonym": "Partisan",
+    "link": "https://www.thefreedictionary.com/tendentious"
   },
   {
-    "word": "Ameliorate",
-    "definition": "Make (something bad or unsatisfactory) better.",
-    "example": "Efforts were made to ameliorate the living conditions in the slums.",
-    "synonym": "Improve"
-  },
-  {
-    "word": "Perfunctory",
-    "definition": "Carried out with a minimum of effort or reflection.",
-    "example": "He gave a perfunctory nod before quickly leaving the room.",
-    "synonym": "Cursory"
-  },
-  {
-    "word": "Trenchant",
-    "definition": "Vigorous or incisive in expression or style.",
-    "example": "She offered a trenchant critique of the new novel.",
-    "synonym": "Sharp"
-  },
-  {
-    "word": "Zephyr",
-    "definition": "A soft gentle breeze.",
-    "example": "A cool zephyr blew in from the ocean.",
-    "synonym": "Breeze"
-  },
-  {
-    "word": "Inchoate",
-    "definition": "Just begun and so not fully formed or developed.",
-    "example": "The movement was still in its inchoate stage.",
-    "synonym": "Rudimentary"
-  },
-  {
-    "word": "Diatribe",
-    "definition": "A forceful and bitter verbal attack against someone or something.",
-    "example": "The speech turned into a fierce diatribe against his political opponents.",
-    "synonym": "Rant"
-  },
-  {
-    "word": "Pulchritudinous",
-    "definition": "Physically beautiful.",
-    "example": "The actress was known for her pulchritudinous features.",
-    "synonym": "Beautiful"
-  },
-  {
-    "word": "Conundrum",
-    "definition": "A confusing and difficult problem or question.",
-    "example": "Solving the economic conundrum required creative thinking.",
-    "synonym": "Puzzle"
-  },
-  {
-    "word": "Vacillate",
-    "definition": "Alternate or waver between different opinions or actions; be indecisive.",
-    "example": "He vacillated between the two job offers for weeks.",
-    "synonym": "Waver"
-  },
-  {
-    "word": "Esoteric",
-    "definition": "Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.",
-    "example": "The discussion was full of esoteric references that few people understood.",
-    "synonym": "Obscure"
-  },
-  {
-    "word": "Reticent",
-    "definition": "Not revealing one's thoughts or feelings readily.",
-    "example": "The new employee was reticent about his previous job experience.",
-    "synonym": "Reserved"
-  },
-  {
-    "word": "Redolent",
-    "definition": "Strongly reminiscent or suggestive of something.",
-    "example": "The kitchen was redolent of spices and fresh bread.",
-    "synonym": "Fragrant"
-  },
-  {
-    "word": "Profligate",
-    "definition": "Recklessly extravagant or wasteful in the use of resources.",
-    "example": "The company was accused of profligate spending on luxury items.",
-    "synonym": "Wasteful"
-  },
-  {
-    "word": "Salubrious",
-    "definition": "Health-giving; healthy.",
-    "example": "We moved to the mountains for the salubrious climate.",
-    "synonym": "Wholesome"
-  },
-  {
-    "word": "Tergiversate",
-    "definition": "Make conflicting or evasive statements; equivocate.",
-    "example": "The witness began to tergiversate when pressed for details.",
-    "synonym": "Quibble"
-  },
-  {
-    "word": "Ineluctable",
-    "definition": "Unable to be resisted or avoided; inescapable.",
-    "example": "The ineluctable conclusion was that the project had failed.",
-    "synonym": "Unavoidable"
-  },
-  {
-    "word": "Supine",
-    "definition": "Lying face upward; failing to act or protest as a result of moral weakness or indolence.",
-    "example": "The manager was criticized for his supine acceptance of the company's poor practices.",
-    "synonym": "Passive"
-  },
-  {
-    "word": "Arcane",
-    "definition": "Understood by few; mysterious or secret.",
-    "example": "The ritual involved arcane symbols and forgotten languages.",
-    "synonym": "Mysterious"
-  },
-  {
-    "word": "Ersatz",
-    "definition": "Used as a substitute, typically an inferior one.",
-    "example": "They were forced to drink ersatz coffee made from roasted acorns.",
-    "synonym": "Substitute"
-  },
-  {
-    "word": "Nonchalant",
-    "definition": "Feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm.",
-    "example": "He walked past the scene of the accident with a nonchalant air.",
-    "synonym": "Casual"
-  },
-  {
-    "word": "Pithy",
-    "definition": "Brief, forceful, and meaningful in expression.",
-    "example": "The speaker delivered a pithy summary of the complex issue.",
-    "synonym": "Concise"
-  },
-  {
-    "word": "Unctuous",
-    "definition": "Excessively or ingratiatingly flattering; oily.",
-    "example": "The unctuous waiter complimented the guests excessively.",
-    "synonym": "Sycophantic"
-  },
-  {
-    "word": "Winnow",
-    "definition": "Blow a current of air through (grain) to remove the chaff; or, reduce a number of contenders until a final few remain.",
-    "example": "The committee had to winnow down the list of applicants from fifty to five.",
-    "synonym": "Filter"
-  },
-  {
-    "word": "Yore",
-    "definition": "Of long ago or former times.",
-    "example": "In days of yore, knights defended the kingdom.",
-    "synonym": "Past"
-  },
-  {
-    "word": "Zeitgeist",
-    "definition": "The defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time.",
-    "example": "The film perfectly captured the confused zeitgeist of the 1990s.",
-    "synonym": "Spirit of the age"
-  },
-  {
-    "word": "Beguile",
-    "definition": "Charm or enchant (someone), sometimes in a deceptive way.",
-    "example": "She was beguiled by his smooth talk and charming smile.",
-    "synonym": "Charm"
-  },
-  {
-    "word": "Cajole",
-    "definition": "Persuade someone to do something by sustained coaxing or flattery.",
-    "example": "He tried to cajole his daughter into eating her vegetables.",
-    "synonym": "Coax"
-  },
-  {
-    "word": "Delineate",
-    "definition": "Describe or portray (something) precisely.",
-    "example": "The plan clearly delineates the steps for market entry.",
-    "synonym": "Outline"
-  },
-  {
-    "word": "Fatuous",
-    "definition": "Silly and pointless.",
-    "example": "The politician's fatuous remarks only alienated voters.",
-    "synonym": "Inane"
+    "word": "Travesty",
+    "definition": "A false, absurd, or distorted representation of something.",
+    "example": "The judge called the trial a travesty of justice.",
+    "synonym": "Mockery",
+    "link": "https://www.thefreedictionary.com/travesty"
   }
 ]

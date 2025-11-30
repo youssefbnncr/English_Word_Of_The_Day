@@ -6,7 +6,6 @@ import path from "path";
 const WEBHOOK_URL = process.env.WEBHOOK_URL;
 
 // --- Load Word Data ---
-// Points to the new English JSON file
 const wordsFilePath = path.join(process.cwd(), "english_words.json");
 let wordData = [];
 
@@ -16,23 +15,23 @@ try {
   console.log(`Loaded ${wordData.length} total words from english_words.json.`);
 } catch (error) {
   console.error("ERROR: Could not load or parse english_words.json file.");
-  // Exit if the data file is missing or invalid
   process.exit(1);
 }
 
 // ---------------------
 //   HELPER FUNCTION TO GET RANDOM ENGLISH WORD
 // ---------------------
-async function getRandomEnglishWord() {
-  const wordsForLang = wordData; // Use the entire loaded array
+async function getRandomWord() {
+  const wordsForLang = wordData;
 
   if (wordsForLang.length === 0) {
-    console.error("No English words found in the JSON file.");
+    console.error("No words found in the JSON file.");
     return {
       word: "Error",
       definition: "No words available in the list.",
       example: "N/A",
       synonym: "N/A",
+      link: "#", // Add default link
     };
   }
 
@@ -45,6 +44,8 @@ async function getRandomEnglishWord() {
     definition: wordObject.definition,
     example: wordObject.example,
     synonym: wordObject.synonym,
+    // *** NEW: Include the link property ***
+    link: wordObject.link,
   };
 }
 
@@ -68,13 +69,16 @@ async function sendToDiscord(message) {
 //   MAIN MESSAGE BUILDER AND SENDER
 // ---------------------
 async function main() {
-  const english = await getRandomEnglishWord();
+  const english = await getRandomWord();
 
+  // *** MODIFIED MESSAGE TEMPLATE ***
   const message = `
-**🇬🇧 English Word Of The Day**
-**${english.word}**: ${english.definition}
-**Synonym**: ${english.synonym}
-**Example**: ${english.example}
+## <@&1444803066418171914> — __**[${english.word}](${english.link})**__
+> **Definition:** ${english.definition}
+> 
+> **Sinónimos:** ${english.synonym}
+> 
+> **Ejemplo:** ${english.example}
   `.trim();
 
   await sendToDiscord(message);
