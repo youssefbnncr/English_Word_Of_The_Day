@@ -73,7 +73,7 @@ async function main() {
 
   // *** MODIFIED MESSAGE TEMPLATE ***
   const message = `
-## <@&1444803066418171914> — __**[${english.word}](${english.link})**__
+## <@&1444821789510205651> — __**[${english.word}](${english.link})**__
 > **Definition:** ${english.definition}
 > 
 > **Sinónimos:** ${english.synonym}
