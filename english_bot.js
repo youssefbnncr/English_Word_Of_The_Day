@@ -76,9 +76,9 @@ async function main() {
 ## <@&1444821789510205651> — __**[${english.word}](${english.link})**__
 > **Definition:** ${english.definition}
 > 
-> **Sinónimos:** ${english.synonym}
+> **Synonyms:** ${english.synonym}
 > 
-> **Ejemplo:** ${english.example}
+> **Example:** ${english.example}
   `.trim();
 
   await sendToDiscord(message);
